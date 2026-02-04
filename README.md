@@ -1,7 +1,7 @@
 <img align="center" src="https://i.pinimg.com/originals/58/2f/bb/582fbb4259b2ea8f182844686ba7f39c.gif" alt="Illustration" width=1000 height=150/>
 
 ## About Me
-  - 👨🏽‍💻 Hi my name is **Gabriel** and I'm a **Fullstack Developer, working on Muvstok!**
+  - 👨🏽‍💻 Hi my name is **Gabriel** and I'm a **Fullstack Developer, working @ Muvstok!**
 
   - 📚 I’m currently studying: **Fullstack Development at Rocketseat Tech School**
 
