@@ -13,4 +13,4 @@
 
 ## Socials
 <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
-<a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
+<!-- <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a> -->
